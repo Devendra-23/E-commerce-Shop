@@ -1,0 +1,37 @@
+[
+    {
+        "image":"images/NB_550_RED.jpeg",
+        "product-brand":"New Balance",
+        "description":"New Balance 550",
+        "price":"£90"
+    },
+
+    {
+        "image":"images/Adidas_Niteball_BL.png",
+        "product-brand":"Adidas",
+        "description":"Adidas_Niteball_BLACK",
+        "price":"£60"
+    },
+
+    {
+        "image":"images/Adidas_Niteball_White.png",
+        "product-brand":"Adidas",
+        "description":"Adidas_Niteball_White",
+        "price":"£50"
+    },
+
+    {
+        "image":"images/Nike DUNK.png",
+        "product-brand":"Nike",
+        "description":"Nike Dunk",
+        "price":"£40"
+    },
+
+    {
+        "image":"images/Adidas_Niteball.png",
+        "product-brand":"Adidas",
+        "description":"Adidas_Niteball",
+        "price":"£100"
+    }
+   
+]
